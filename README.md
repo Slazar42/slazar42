@@ -2,8 +2,7 @@
 
 ![Profile Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)
 
-Hi there! I'm **[Your Name]**, a passionate **Web Developer** with expertise in building dynamic and interactive websites. I’ve recently completed the 42 School cursus, where I mastered a variety of coding challenges and grew as a developer. 🚀
-
+Hey! I’m Salah Eddine Lazar, and I’m a web developer who’s obsessed with making websites that are both functional and fun to use. I recently wrapped up my time at 42 School, where I tackled coding challenges that really pushed me to level up my skills. I’m always looking for the next opportunity to grow and take on cool projects.
 ---
 
 ## 🚀 About Me
@@ -41,11 +40,8 @@ A data visualization dashboard built with **Vue.js** and **Chart.js**, displayin
 
 I'm always excited to connect with fellow developers and like-minded individuals. Here's how you can reach me:
 
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- **Website**: [yourwebsite.com](https://yourwebsite.com)
-
+- **Email**: [1337sallazar@gmail.com]
+  
 ---
 
 ## 🛠️ My Development Setup
