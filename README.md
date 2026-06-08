@@ -1,74 +1,110 @@
-# Welcome to My GitHub Profile! 👋
+<div align="center">
 
-![Profile Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)
+# Hey there, I'm Salah Eddine Lazar 👋
 
-Hey! I’m Salah Eddine Lazar, and I’m a web developer who’s obsessed with making websites that are both functional and fun to use. I recently wrapped up my time at 42 School, where I tackled coding challenges that really pushed me to level up my skills. I’m always looking for the next opportunity to grow and take on cool projects.
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=42%2F1337+School+Graduate+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Business+Automation+Engineer+%E2%9A%99%EF%B8%8F;Building+tools+that+save+hours+of+work+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-## 🚀 About Me
+<br>
 
-I love crafting clean, efficient, and user-friendly web applications. Whether it’s front-end or back-end development, I enjoy solving problems and learning new technologies. Here’s a bit about me:
+<img src="https://github-readme-stats.vercel.app/api?username=Slazar42&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Slazar42&theme=tokyonight&hide_border=true&background=0D1117" width="49%" />
 
-- 💻 **Languages**: JavaScript, TypeScript, HTML5, CSS3, Python, C
-- 🌐 **Frontend**: React, Vue.js, HTML/CSS, Bootstrap, TailwindCSS
-- 🛠 **Backend**: Node.js, Express, Django, Flask
-- 🗄 **Databases**: MongoDB, PostgreSQL, MySQL
-- 🔧 **Tools**: Git, Docker, Nginx, Webpack, VSCode, GitHub Actions
-- 💡 **Passionate About**: Clean code, UI/UX, Performance optimization, Automation
+</div>
 
 ---
 
-## 🔥 Projects & Highlights
+## 🧑‍💻 About Me
 
-Here are a few of my favorite projects I’ve worked on:
+I'm a **Full-Stack Developer** and **42/1337 School Graduate** from Morocco 🇲🇦, specialized in building **business automation tools** and **API integrations** that help companies work smarter.
 
-### 📝 [**Personal Portfolio Website**](https://github.com/yourusername/portfolio)
-A responsive and interactive portfolio built with **React** and **TailwindCSS**. This website showcases my skills, projects, and contact information.
+After completing the intense peer-to-peer curriculum at **1337 (42 Network)**, where I mastered low-level programming in **C/C++**, I transitioned into building production-grade automation systems — from **CRM integrations** to **payment processing** to **real-time communication bridges**.
 
-### 🌎 [**Weather App**](https://github.com/yourusername/weather-app)
-A simple yet powerful weather forecasting app that uses **OpenWeatherMap API**. Built with **React** and **CSS Grid**.
-
-### 🎮 [**Game Project**](https://github.com/yourusername/game-project)
-A browser-based game built using **JavaScript** and **HTML5 Canvas**. It’s a fun puzzle game that helps improve logic and reasoning skills.
-
-### 📈 [**Data Dashboard**](https://github.com/yourusername/data-dashboard)
-A data visualization dashboard built with **Vue.js** and **Chart.js**, displaying dynamic charts and statistics for real-time data analysis.
-
----
-
-## 📬 Let's Connect!
-
-I'm always excited to connect with fellow developers and like-minded individuals. Here's how you can reach me:
-
-- **Email**: [1337sallazar@gmail.com]
-  
----
-
-## 🛠️ My Development Setup
-
-I like to stay efficient and organized while working on projects. Here's a quick peek at my development setup:
-
-- **OS**: macOS / Linux
-- **Editor**: Visual Studio Code
-- **Terminal**: iTerm2 / Zsh
-- **Version Control**: Git, GitHub, GitLab
-- **Package Manager**: npm, yarn
-- **Browser**: Google Chrome, Firefox (with Developer Tools)
+```python
+class SalahEddineLazar:
+    def __init__(self):
+        self.school      = "1337 (42 Network) 🎓"
+        self.role        = "Full-Stack Developer & Automation Engineer"
+        self.languages   = ["Python", "JavaScript", "TypeScript", "C", "C++"]
+        self.focus       = ["Business Automation", "API Integration", "Web Development"]
+        self.motto       = "Automate everything, build what matters."
+```
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical)
+<div align="center">
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **APIs & Services** | ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white) ![Zoho](https://img.shields.io/badge/Zoho_CRM-C8202B?style=flat-square&logo=zoho&logoColor=white) |
+| **DevOps & Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+</div>
 
 ---
 
-## 🎉 Fun Facts
+## 🚀 What I Build
 
-- I once built a **machine learning algorithm** that predicts movie recommendations based on your viewing history. 🍿
-- I love learning new programming languages, and I'm currently exploring **Rust** and **Go**.
-- I have a soft spot for **open-source contributions** and enjoy collaborating with others on GitHub.
+### ⚙️ Business Automation & API Integrations
+Production systems running 24/7 on cloud infrastructure:
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 📞 **Aircall Auto Messages** | Automated SMS/message system triggered by call events | Python, Aircall API |
+| 📊 **Aircall to Google Sheets** | Real-time call data sync with analytics dashboards | Python, Google Sheets API |
+| 💳 **Payment Verification System** | Automated Stripe payment monitoring with web dashboard | Python, Stripe API, Flask |
+| 📋 **Zoho Daily Export** | Automated CRM report extraction and Google Sheets sync | Python, Playwright, Zoho CRM |
+| 💬 **WhatsApp Bridge** | WhatsApp Web API bridge for business communications | Node.js, WhatsApp Web.js |
+| ✍️ **Digital Signatures** | Electronic signature integration system | Python |
+
+### 🎓 42/1337 School Projects
+Low-level programming projects built from scratch, no libraries allowed:
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| 🐚 [**minishell**](https://github.com/Slazar42/minishell) | Built a bash-like shell from scratch | C |
+| 🍝 [**philosophers**](https://github.com/Slazar42/philosophers) | Dining philosophers problem — threading & mutexes | C |
+| 🔢 [**push_swap**](https://github.com/Slazar42/push_swap) | Sorting algorithm with minimal operations | C |
+| 🎮 [**cub3D**](https://github.com/Slazar42/cub3D-42) | Raycasting 3D game engine (Wolfenstein-style) | C |
+| 🐚 [**inception**](https://github.com/Slazar42/inception) | Docker infrastructure — WordPress, Nginx, MariaDB | Docker/Shell |
+| 📡 [**minitalk**](https://github.com/Slazar42/minitalk) | Client-server communication using UNIX signals | C |
+| 🖨️ [**ft_printf**](https://github.com/Slazar42/ft_printf) | Reimplementation of printf | C |
+| 📖 [**get_next_line**](https://github.com/Slazar42/get_next_line) | Read a line from a file descriptor | C |
+| 📚 [**libft**](https://github.com/Slazar42/libft) | Custom C standard library | C |
+| 🎮 [**so_long**](https://github.com/Slazar42/so_long) | 2D game with textures and sprites | C |
+| ➕ [**CPP Modules 00-09**](https://github.com/Slazar42/cpp_module_00) | OOP concepts — from classes to templates | C++ |
 
 ---
 
-### Thank you for visiting my GitHub profile! Feel free to browse my repositories, follow me for updates, and reach out if you'd like to collaborate on any exciting projects. 😊
+## 📊 Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slazar42&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" width="38%" />
+
+</div>
+
+---
+
+## 📬 Get In Touch
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-1337sallazar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1337sallazar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Slazar42-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Slazar42)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+<img src="https://komarev.com/ghpvc/?username=Slazar42&style=flat-square&color=6C63FF" />
+
+</div>
